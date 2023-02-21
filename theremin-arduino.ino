@@ -123,7 +123,7 @@ void SoundSet(int CMF,int CMV)
   vol.tone(9,melody[CMF]*10,volume);
    //tone(8, melody[centiMeter], noteDuration);
 }
-long microsecondsToCentimeters(long microseconds) // method to covert microsec to centimeters
+long microsecondsToCentimeters(long microseconds)
 {
    return microseconds / 58;
 }
