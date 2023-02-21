@@ -12,7 +12,7 @@ The theremin is an electronic musical instrument controlled without any physical
 • To be independent enough to accommodate different types of sounds for maximum creativity for the musician.
 
 
-# How does this work
+# How does this work?
 
 Various notes are predefined with their respective frequencies; which then get mapped to one of the ultrasonic sensors.
 
