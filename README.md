@@ -36,3 +36,8 @@ Wires (Jumper wires are used) - as needed
 Buzzer/ Speaker (for sound output)
 
 A constant 5V/ 9V signal to power the circuit
+
+# Circuit Diagram
+
+
+![theremin](https://user-images.githubusercontent.com/91023096/220397335-74ddd47b-9f81-494d-8d5d-9ef778b944e5.png)
